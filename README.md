@@ -1,6 +1,6 @@
 # Currents
 
-![App Logo](https://cdn.discordapp.com/attachments/1047424195803492383/1119976059023134800/logo.png)
+![App Logo](https://raw.githubusercontent.com/mavihS-0/Currents/main/Source%20Code/assets/logo.png)
 
 This is a basic Flutter News App that allows users to browse through news articles using the NewsAPI. The app consists of two basic screens: the feed screen and the home screen. The feed screen displays news articles that can be swiped through, while the home screen provides a search bar and a country filter for customized news browsing.
 
